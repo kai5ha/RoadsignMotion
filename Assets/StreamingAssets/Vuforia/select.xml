@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="end_c" size="1.000000 1.009615" />
+    <ImageTarget name="return_banned" size="1.000000 1.000000" />
+    <ImageTarget name="bus_priority" size="1.000000 0.995951" />
+    <ImageTarget name="crosswalk_a" size="1.000000 1.000000" />
+    <ImageTarget name="maxspeed_50" size="1.000000 1.000000" />
+    <ImageTarget name="stop_a" size="1.000000 1.011696" />
+    <ImageTarget name="maxspeed_30" size="1.000000 1.000000" />
+    <ImageTarget name="ippoh_ver4" size="1.000000 1.338387" />
+    <ImageTarget name="zebra_50" size="1.000000 1.121644" />
+    <ImageTarget name="PA_5" size="1.000000 1.000000" />
+    <ImageTarget name="speed_5" size="1.000000 1.000000" />
+    <ImageTarget name="speed_10" size="1.000000 1.000000" />
+    <ImageTarget name="stop" size="1.000000 0.881138" />
+    <ImageTarget name="parkingstopping_ban" size="1.000000 0.999815" />
+    <ImageTarget name="parking_ban" size="1.000000 0.999863" />
+    <ImageTarget name="Ippoh" size="1.000000 1.000000" />
+    <ImageTarget name="children" size="1.000000 1.121739" />
+  </Tracking>
+</QCARConfig>
